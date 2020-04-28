@@ -118,7 +118,7 @@ Construya un `Vagrantfile` que al ser invocado cree una máquina virtual con las
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/324854)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-04)
 * [**ENLACE A SCRIPT DE INSTALACIÓN**](install-apache.sh)
 
