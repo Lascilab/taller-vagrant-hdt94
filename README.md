@@ -79,8 +79,8 @@ Usando el comando `VBoxManage` habilite el *port forwarding* de modo que el puer
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA CON VBOXMANAGE**](https://asciinema.org)
-* [**ENLACE A VIDEO EN ASCIINEMA CON VAGRANTIFLE**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA CON VBOXMANAGE**](https://asciinema.org/a/324621)
+* [**ENLACE A VIDEO EN ASCIINEMA CON VAGRANTIFLE**](https://asciinema.org/a/324628)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-02)
 
 ---
