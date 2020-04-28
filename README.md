@@ -56,7 +56,7 @@ En esta actividad usted deberá evidenciar que ha sido capaz de:
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/324611)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-01)
 
 ---
