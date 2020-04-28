@@ -197,5 +197,5 @@ En este caso usted usará los siguientes archivos para llevar a cabo el desplieg
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/324939)
 * [**ENLACE A `haproxy.sh`**](haproxy.sh)
