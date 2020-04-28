@@ -159,7 +159,7 @@ La máquina `web1` deberá accedr al directorio `html` del *host* y la máquina 
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/324891)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-06)
 
 ---
