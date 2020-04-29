@@ -1,0 +1,36 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "ubuntu/trusty32"
+
+  config.vm.define "web1" do |web|
+    web.vm.network "forwarded_port", guest: 80, host: 8000
+  
+    web.vm.provision "shell", path: "install-apache.sh"
+  
+    web.vm.provider "virtualbox" do |vb|
+      vb.customize [
+        "modifyvm", :id,
+        "--name", "web1",
+      ]
+    end
+  
+    web.vm.synced_folder "html/", "/var/www/html/"
+  end
+
+  config.vm.define "web2" do |web|
+    web.vm.network "forwarded_port", guest: 80, host: 8008
+  
+    web.vm.provision "shell", path: "install-apache.sh"
+  
+    web.vm.provider "virtualbox" do |vb|
+      vb.customize [
+        "modifyvm", :id,
+        "--name", "web2",
+      ]
+    end
+  
+    web.vm.synced_folder "www/", "/var/www/html/"
+  end
+end
